@@ -1,0 +1,11 @@
+Ventas mensuales de la empresa para el año 2022:
+
+Enero: $10,000
+Febrero: $12,000
+Marzo: $17,000
+Abril: $14,000
+Mayo: $18,000
+Junio: $20,000
+Julio: $10,000
+Agosto: $13,000
+Septiembre: $21,000

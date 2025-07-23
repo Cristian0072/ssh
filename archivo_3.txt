@@ -1,0 +1,25 @@
+Datos de inicio de sesión de empleados:
+
+Correo electrónico: luis.ortiz@empresa.com
+Clave: admin123
+Celular: 0987654321
+Nombre: Luis Ortiz
+Fecha de nacimiento: 07/01/1970
+
+Correo electrónico: ana.gallegos@empresa.com
+Clave: Salario123
+Celular: 0987658692
+Nombre: Ana Gallegos
+Fecha de nacimiento: 02/25/200
+
+Correo electrónico: segundo.e.hoyos@empresa.com
+Clave: Hola2545
+Celular: 0907604323
+Nombre: Segundo Hoyos
+Fecha de nacimiento: 03/15/1993
+
+Correo electrónico: byron.buendia@empresa.com
+Clave: perro123
+Celular: 0984754324
+Nombre: Byron Buendía
+Fecha de nacimiento: 12/20/1995

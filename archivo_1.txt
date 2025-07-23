@@ -1,0 +1,33 @@
+Datos de empleados:
+
+Empleado: Juan Pérez
+Correo electrónico: juan.perez@empresa.com
+Teléfono: 555-123-4567
+SSN: 123-45-6789
+Clave: admin123
+Salario: $75,000
+Cédula: 1234567890
+
+Empleado: Pablo García
+Correo electrónico: pablo.garcia@empresa.com
+Teléfono: 555-987-6543
+SSN: 987-65-4321
+Clave: yolo123
+Salario: $82,000
+Cédula: 0475896520
+
+Empleado: Manuel Delgado
+Correo electrónico: manuel.delgado@empresa.com
+Teléfono: 555-654-3210
+SSN: 321-54-9876
+Clave: gato123
+Salario: $90,000
+Cédula: 1220457896
+
+Empleado: Rous Olaya
+Correo electrónico: rous.olaya@empresa.com
+Teléfono: 555-321-0987
+SSN: 654-32-1098
+Clave: segura012
+Salario: $78,000
+Cédula: 1178964520

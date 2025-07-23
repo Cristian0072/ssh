@@ -1,0 +1,37 @@
+Datos de pacientes:
+
+Paciente: Ana Torres
+Correo electrónico: ana.torres@empresa.com
+Teléfono: 555-111-2233
+Cédula: 1234567890
+Clave: segura123
+Historial Médico:
+- Alergia: Polen
+- Enfermedad: Asma
+
+Paciente: Luis López
+Correo electrónico: luis.lopez@empresa.com
+Teléfono: 555-222-3344
+Cédula: 0987654321
+Clave: fuerte456
+Historial Médico:
+- Alergia: Polvo
+- Enfermedad: Hipertensión
+
+Paciente: Carlos Puglla
+Correo electrónico: carlos.puglla@empresa.com
+Teléfono: 555-654-3210
+Cédula: 1122334455
+Clave: fuerte789
+Historial Médico:
+- Alergia: Ninguna
+- Enfermedad: Diabetes
+
+Paciente: Ana Galarga
+Correo electrónico: ana.galarga@empresa.com
+Teléfono: 555-789-0123
+Cédula: 2233445566
+Clave: fuerte012
+Historial Médico:
+- Alergia: Canes
+- Enfermedad: Anemia

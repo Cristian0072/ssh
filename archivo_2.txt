@@ -1,0 +1,21 @@
+Datos de tarjetas de crédito:
+
+Número de tarjeta: 1234-5678-9012-3456
+Nombre: Juan Hernandez
+Fecha de vencimiento: 12/25
+CVV: 123
+
+Número de tarjeta: 9876-5432-1098-7654
+Nombre: María Pardo
+Fecha de vencimiento: 11/24
+CVV: 456
+
+Número de tarjeta: 3210-9876-5432-1098
+Nombre: Carlos Moyano
+Fecha de vencimiento: 10/23
+CVV: 789
+
+Número de tarjeta: 4567-8901-2345-6789
+Nombre: Ana Herrera
+Fecha de vencimiento: 09/22
+CVV: 012
